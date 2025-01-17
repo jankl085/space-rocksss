@@ -1,4 +1,4 @@
-score = 990;
+score = 980;
 lives = 1;
 
 draw_set_font(fnt_text);
